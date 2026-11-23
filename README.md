@@ -8,7 +8,6 @@
 
 ## Technical Skills
 - Python
-- SQL
 - Streamlit
 - Git & GitHub
 - Azure
