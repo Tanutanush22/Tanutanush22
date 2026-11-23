@@ -2,7 +2,7 @@
 
 ## About Me
 - OT Infrastructure Administrator at SKF India
-- BCA completed, MCA Student
+- Bachelor of Computer Applications
 - Learning Python, Streamlit, and GitHub
 - Interested in Application Development and Data Analytics
 
